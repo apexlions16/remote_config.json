@@ -1,0 +1,37 @@
+{
+  "general": {
+    "db_name": "music_db.sqlite",
+    "temp_dir": "/tmp/music_cache",
+    "cover_dir": "covers"
+  },
+  "source_mapping": [
+    {
+      "album_adi": "Kaldır Eli Havaya", 
+      "sanatci": "Patron ft. Bela & Atakan Stress",
+      "tur": "Single", 
+      
+      "yayin_tarihi": "11-02-2011",          
+      "tarz": "Hip-hop",                    
+      "besteci": "Sezer Savgınlar",         
+      "label": "07GANG",                    
+      "album_aciklamasi": "Patron, Bela ve Atakan Stress'in bu güçlü single çalışması.",
+      
+      "kapak_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/be/66/14be6616-3f1b-452a-ec34-60fcc5f7d697/198391214318.jpg/592x592bb.webp", 
+      
+      /* LÜTFEN KENDİ DİREKT İNDİRME LİNKLERİNİZİ BURAYA YAZIN */
+      "m4a_7z_url": "https://[Xsolla_URL]/kaldir_eli_m4a.7z", 
+      "wav_7z_url": "https://[Xsolla_URL]/kaldir_eli_wav.7z",
+      "7z_sifre": null, /* Şifre varsa tırnak içinde yazın, yoksa null kalsın */
+      
+      "sarkilar": [
+        {
+          "parca_no": 1,
+          "sarki_adi": "Kaldır Eli Havaya",
+          /* 7Z arşivinizin içindeki TAM DOSYA ADI */
+          "m4a_dosya_adi": "Kaldır Eli Havaya.m4a",
+          "wav_dosya_adi": "Kaldır Eli Havaya.wav" 
+        }
+      ]
+    }
+  ]
+}
