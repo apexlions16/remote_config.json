@@ -8,17 +8,13 @@
     {
       "album_adi": "Kaldır Eli Havaya", 
       "sanatci": "Patron ft. Bela & Atakan Stress",
-      "tur": "Single"
-      
+      "tur": "Single",
       "yayin_tarihi": "11-02-2011",          
       "tarz": "Hip-hop",                    
       "besteci": "Sezer Savgınlar",         
       "label": "07GANG",                    
       "album_aciklamasi": "Patron'un başlangıcı derken, Bela ve Atakan Stress'in güçlü single çalışması.",
-      
       "kapak_url": "https://is1-ssl.mzstatic.com/image/thumb/Music122/v4/14/be/66/14be6616-3f1b-452a-ec34-60fcc5f7d697/198391214318.jpg/592x592bb.webp", 
-      
-      /* LÜTFEN KENDİ DİREKT İNDİRME LİNKLERİNİZİ BURAYA YAZIN */
       "m4a_7z_url": "https://gamebuild.launcher.xsolla.com/21395/full_games/full_game_/full_game_75857579777e4319c17d7a66d8fa7d1c_.7z.001", 
       "wav_7z_url": "https://gamebuild.launcher.xsolla.com/21395/full_games/full_game_/full_game_75857579777e4319c17d7a66d8fa7d1c_.7z.001",
       "7z_sifre": null, /* Şifre varsa tırnak içinde yazın, yoksa null kalsın */
